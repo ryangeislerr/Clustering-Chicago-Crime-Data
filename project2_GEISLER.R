@@ -1,7 +1,11 @@
 #Project 2
 #Ryan Geisler
 #Data set: "crime.csv"
-#Questions:
+#Questions
+#  -Can patterns be identified in crime rates across different districts?
+#  -Can clustering help pinpoint crime hotspots?
+#  -What crimes are most prevalent in specific areas?
+
 
 #load packagaes
 install.packages("dplyr")
